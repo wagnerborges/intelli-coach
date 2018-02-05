@@ -1,4 +1,4 @@
-# IntelliCoach
+# IntelliCoach - Ferramenta Inteligente Para Coach
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
